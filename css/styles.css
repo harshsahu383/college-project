@@ -1,0 +1,144 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+.card {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 30px;
+}
+/* Additional styles for career page */
+.card {
+    margin-bottom: 30px;
+}
+
+h1, h5 {
+    color: #007bff;
+}
+/* Additional styles for contact page */
+form {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #007bff;
+}
+
+footer {
+    margin-top: 50px;
+}
+/* Additional styling for blog-style new-tech page */
+img {
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #007bff;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.btn-primary {
+    margin-top: 15px;
+}
+/* Styling for company images */
+img {
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.btn-primary {
+    margin-top: 15px;
+}
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Navbar Styling */
+.navbar {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.nav-link {
+    font-size: 1.1rem;
+}
+
+/* Section Heading */
+h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+/* Opportunity Section */
+section {
+    padding: 40px 0;
+}
+
+h2 {
+    font-size: 1.8rem;
+    color: #0056b3;
+}
+
+p {
+    font-size: 1.1rem;
+    color: #333;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Image Styling */
+img {
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+.k{
+    color: white;
+
+}
+.pg{
+    color: white;
+}
